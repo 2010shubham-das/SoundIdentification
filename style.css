@@ -1,0 +1,37 @@
+body {
+    background-color: lightpink;
+    font-family: 'Oswald', sans-serif;
+}
+
+.header_div {
+    background-color: white;
+    color: navy;
+}
+
+.header_div p {
+    font-family: 'Source Code Pro', monospace;
+    color: darkgray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 30px;
+    width: 140px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    background-color: white;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 141, 141);
+}
